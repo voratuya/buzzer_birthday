@@ -1,0 +1,7 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="pxt-on-start" id="v)5(qK]Bs,_uZB#iScMd" x="0" y="0"><statement name="HANDLER"><block type="device_show_leds" id="Ti(JW2TJ/|,je8p5CP6-"><field name="LEDS">`
+        . . . # . 
+        . . # . . 
+        . . # . . 
+        # # # # # 
+        # # # # #
+        `</field><next><block type="SuperBit_Music" id="LPNhKjDGkz.604:PgsYb"><field name="index">SuperBit.enMusic.birthday</field></block></next></block></statement></block></xml>
